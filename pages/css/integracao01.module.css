@@ -1,0 +1,16 @@
+#integracao{
+ background-color: antiquewhite;
+ align-items: center;
+}
+
+.vermelha{
+  color: red;
+}
+.amarela{
+  color: yellow;
+  font-weight: bold;
+  background-color: #b1b1b1;
+}
+.azul{
+  color: blue;
+}
